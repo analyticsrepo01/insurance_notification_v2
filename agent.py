@@ -304,7 +304,7 @@ def request_claim_approval(
         function_call_id = None
 
     session_info = {
-        "app_name": "insurance_notification",
+        "app_name": "insurance_notification_v2",
         "user_id": actual_user_id,
         "session_id": actual_session_id,
         "function_call_id": function_call_id
